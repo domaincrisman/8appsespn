@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 
-gem 'rails', '4.2.5'
+#gem 'rails', '4.2.5'
+gem 'rails', '~> 4.2', '>= 4.2.7.1'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 gem 'simple_form', '~> 3.1.0'
